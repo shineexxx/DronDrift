@@ -109,7 +109,7 @@ MonoBehaviour:
     tractionHelper: 1
     turnHelper: 1
     angularDragHelper: 0
-    driftMode: 0
+    driftMode: 1
     steeringCurve:
       serializedVersion: 2
       m_Curve:
